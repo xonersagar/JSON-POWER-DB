@@ -19,8 +19,8 @@ This is a micro project developed using HTML, Bootstrap, JavaScript and JSON Pow
 - Update existing records
 - Reset form
 
-## 🎯 Project Stat<img width="1440" alt="Screenshot 2025-06-28 at 9 58 13 PM" src="https://github.com/user-attachments/assets/08a9be99-f949-4d10-b805-1c2445de83da" />
-<img width="1440" alt="Screenshot 2025-06-28 at 9 58 13 PM" src="https://github.com/user-attachments/assets/dc4d397e-7b90-4c38-99e2-68b9b25d5c76" />
+## 🎯 Project Stat<img width="1440" alt="Screenshot 2025-06-28 at 9 58 13 PM" src="https://github.com/user-attachments/assets/08a9be99-f949-4d10-b805-1c2445de83da" /><img width="1440" alt="Screenshot 2025-06-28 at 10 10 59 PM" src="https://github.com/user-attachments/assets/55764624-6457-4398-84d1-905489bdc4be" />
+
 us
 ✅ Completed and functional
 
